@@ -1,6 +1,6 @@
 # GW-team-sgxllhx
 Team members:Hui Sun, Shuo Guan, Zhongxiu Xu, Bing Lv, Lintao Liu, Yuxuan Hao, Junlan Xian  
-
+The codes was in the folder GWSC, containing the code we wrote of labs in the six topics and the codes from the teacher Mohanty for call from six topics code.
 ## Topic1
 ### lab3
 We choose the third Sine-Gaussian signal for practice.The code of this function is in sigaus.m.The expression of it is 
@@ -48,4 +48,4 @@ The glrts of three datas are 10.6069, 71.4192 and 2.7812,respectively. While we 
 ### Set1  
 The benchmark fitness function we choose is f6.
 ## Topic6
-We mostly use the code from Mohanty and didn't make much change. 
+We mostly use the code from the teacher Mohanty and didn't make much change. 
