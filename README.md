@@ -1,5 +1,17 @@
 # GW-team-sgxllhx
-Team members:Hui Sun, Shuo Guan, Zhongxiu Xu, Bing Lv, Lintao Liu, Yuxuan Hao, Junlan Xian
+Team members:Hui Sun, Shuo Guan, Zhongxiu Xu, Bing Lv, Lintao Liu, Yuxuan Hao, Junlan Xian  
+
+## Topic1
+### lab3
+We choose the third Sine-Gaussian signal for practice.The code of this function is in sigaus.m.The expression of it is 
+
+![1](http://latex.codecogs.com/svg.latex?s(t)=Aexp(-\frac{(t-t_0)^2}{2\sigma^2})sin(2{\pi}f_0t+\phi_0))
+
+### lab6  
+And we write testsigaus.m to test the function.Here are the results of the test, including time series, periodogram and spectrogram:  
+
+<img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a13.png" width="300"/> <img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a14.png" width="300"/>   <img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a15.png" width="300"/>  
+
 ## Topic2
 Fcross and Fplus:  
 
@@ -29,9 +41,11 @@ We start a new script SNRcalcMod2.m to work with our Sine-Gaussian assigned sign
 
 <img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a10.png" width="300"/> <img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a11.png" width="300"/>   <img src="https://github.com/sunhui22/GW-team-sgxllhx/blob/main/figures/a12.png" width="300"/>  
 
-
+### Set4  
+The glrts of three datas are 10.6069, 71.4192 and 2.7812,respectively. While we have met some trouble in the calculation of the significance, which we would like to add to the repository later.
 
 ## Topic5
-
+### Set1  
+The benchmark fitness function we choose is f6.
 ## Topic6
-
+We mostly use the code from Mohanty and didn't make much change. 
