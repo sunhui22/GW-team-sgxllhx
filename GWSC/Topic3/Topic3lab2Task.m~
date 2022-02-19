@@ -1,0 +1,12 @@
+
+%%
+% Path to folder containing signal and noise generation codes
+addpath ../Topic1
+addpath ../SIGNALS
+addpath ../NOISE
+addpath ../DETEST
+%% load
+testData=load('testData.txt');
+noiseVec=testData(1:5121,:)';
+timeVec=noiseVec(1,:);
+noiseVec=noiseVec(2,:);
